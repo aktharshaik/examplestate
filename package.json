@@ -1,6 +1,6 @@
 {
   "name": "examplestate",
-  "hostname": "https://aktharshaik.github.io/examplestate/",
+  "hostname": "https://aktharshaik.github.io/examplestate",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
